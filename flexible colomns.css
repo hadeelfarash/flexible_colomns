@@ -1,0 +1,43 @@
+.row{
+
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    flex: 1;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+}
+.col-2{
+    flex: 2;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;  
+}
+.col-3{
+    flex: 2;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+}
+.col-4{
+    flex: 5;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
+.col-5{
+    flex: 5;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
